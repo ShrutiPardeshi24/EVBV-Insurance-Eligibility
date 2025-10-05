@@ -27,4 +27,4 @@ Understand the Dataset & cleanup (if required).
 
 Build classification model to predict weather the insurance will be claimed or not.
 
-Also fine-tune the hyperparameters & compare the evaluation metrics of vaious classification algorithms.
+Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.
