@@ -28,4 +28,3 @@ Understand the Dataset & cleanup (if required).
 Build classification model to predict weather the insurance will be claimed or not.
 
 Also fine-tune the hyperparameters & compare the evaluation metrics of vaious classification algorithms.
-[EVBV_Eligibility_Verification.ipynb](https://github.com/user-attachments/files/22710056/EVBV_Eligibility_Verification.ipynb)
